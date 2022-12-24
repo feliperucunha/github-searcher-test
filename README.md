@@ -26,7 +26,7 @@
 - Access the 'http://localhost:3000/' link.
 
 
-### Improvement Notes
+### 📝 Improvement Notes
 
 I knew I could complete what you were asking for, but to me this is a barebone version. It is more than what you asked for sure, but if I had more time to work on this project (due to Christmas) I would:
 - Replace the strings with locales variables.
@@ -41,4 +41,3 @@ I knew I could complete what you were asking for, but to me this is a barebone v
 
 [LinkedIn](https://www.linkedin.com/in/feliperubencunha/) 
 [E-mail](feliperubenmv@gmail.com)
-# github-searcher-test
